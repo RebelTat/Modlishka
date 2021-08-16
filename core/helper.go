@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"compress/flate"
 	"compress/gzip"
-	"github.com/drk1wi/Modlishka/runtime"
+	"github.com/RebelTat/Modlishka/runtime"
 	"net/http"
 )
 
